@@ -1,7 +1,10 @@
 .navbar{
 background-color: white;
 text-align: center;
-
+padding-block: 0.5rem;
+margin-top: -1%;
+margin-left: -1%;
+margin-right: -1%;
 }
 body{
     background-color: rgba(128, 128, 128, 0.384);
@@ -11,7 +14,9 @@ body{
 background-color: white;
 width: 50rem;
 height: 40rem;
+margin: auto;
 margin-top: 5rem;
+
 }
 .tittleCard{
 float: left;
@@ -21,6 +26,7 @@ padding: 12px;
 .numberCard{
     float: right;
     padding: 28px;
+    color:rgba(128, 128, 128, 0.623)
 
 }
 .description{
